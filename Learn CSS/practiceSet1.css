@@ -1,0 +1,18 @@
+#box {
+    background-color: blue;
+    color: white;
+}
+
+/* h1,h2,h3{
+    color: red;
+} */
+.heading{
+    color: rgb(207, 54, 54);
+}
+
+button{
+    background-color: green;
+}
+#main{
+    text-align: center;
+}
